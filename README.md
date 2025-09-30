@@ -2,8 +2,6 @@
 
 I'm Tking 
 
-**Tkingm2/Tkingm2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I’m currently working on a Tribute page 
 - 🌱 I’m currently learning Computer Programming 
 - 👯 I’m looking to collaborate on nothing at the Moment 
