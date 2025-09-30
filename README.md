@@ -10,4 +10,3 @@ I'm Tking
 - 📫 You can contact me at tuffdodge@gmail.com or At instgram @TKING.100 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm oddly flexable
-
